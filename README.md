@@ -7,8 +7,9 @@ This repo was built with examples from ff links:
 # Instructions:
 
 * this is not the only way to install an eos node and may be outdated by the time you read this. Do checkout other tutorials if you get stuck. 
+* For Windows (using Ubuntu CLI), create a directory in C://. This directory can be accessed in Ubuntu CLI using the path: /mnt/c/<DirectoryName>.
 
-### Setup EOS Node (follow: https://developers.eos.io/eosio-nodeos/docs/install-nodeos)
+### Setup EOS Node (follow: https://developers.eos.io/eosio-nodeos/docs/install-nodeos. For Windows: https://medium.com/@TeaSea1/how-to-install-eos-on-windows-ac1b6c7d8369)
 
 1. git clone https://github.com/EOSIO/eos --recursive
 
